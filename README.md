@@ -39,7 +39,21 @@ I enjoy working across the entire software lifecycle — from designing interfac
 
 ---
 
-# `> stack.scan`
+# `> fullstack.scan`
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E+FULL-STACK+SYSTEM+INITIALIZED;%3E+FRONTEND+%E2%86%94+BACKEND;%3E+BUILDING+END-TO-END+APPLICATIONS..." />
+</p>
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│             FULL-STACK ENGINEERING           │
+│                                              │
+│        FRONTEND  ◄──── API ────► BACKEND     │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
 
 ## 🌐 Frontend
 
@@ -69,6 +83,39 @@ Node.js                     Go
 ```
 
 ---
+
+## 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark" />
+</p>
+
+```text
+Microsoft SQL Server
+MySQL
+PostgreSQL
+SQLite
+MongoDB
+pgAdmin
+```
+
+---
+
+# `> mobile.scan`
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=700&color=A855F7&center=true&vCenter=true&width=750&lines=%3E+MOBILE+ENVIRONMENT+READY;%3E+NATIVE+%2B+CROSS-PLATFORM;%3E+BUILDING+MOBILE+EXPERIENCES..." />
+</p>
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│              MOBILE DEVELOPMENT              │
+│                                              │
+│          NATIVE  ◄──────►  CROSS             │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
 
 ## 📱 Mobile
 
@@ -102,23 +149,21 @@ Windows Forms
 
 ---
 
-## 🗄️ Database
+# `> devops.scan`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=700&color=39FF14&center=true&vCenter=true&width=750&lines=%3E+DEVOPS+PIPELINE+ONLINE;%3E+CONTAINERIZE+%E2%86%92+DEPLOY+%E2%86%92+ORCHESTRATE;%3E+INFRASTRUCTURE+READY..." />
 </p>
 
 ```text
-Microsoft SQL Server
-MySQL
-PostgreSQL
-SQLite
-MongoDB
-Redis
-pgAdmin
+╭──────────────────────────────────────────────╮
+│                                              │
+│             DEVOPS / INFRASTRUCTURE          │
+│                                              │
+│       BUILD  ───►  SHIP  ───►  DEPLOY       │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
-
----
 
 ## 🚀 DevOps / Infrastructure
 
@@ -167,6 +212,10 @@ Production
 
 # `> languages.scan`
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=600&color=FACC15&center=true&vCenter=true&width=750&lines=%3E+LANGUAGE+MODULES+LOADED;%3E+MULTI-LANGUAGE+ENVIRONMENT+READY..." />
+</p>
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,java,cpp,python,ts,js,go,rust,kotlin,swift,dart,html,css&theme=dark" />
 </p>
@@ -185,17 +234,26 @@ CSS
 
 # `> ai.scan`
 
-## 🤖 Artificial Intelligence
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=800&color=FF00F7&center=true&vCenter=true&width=700&lines=Machine+Learning;Natural+Language+Processing;Recommendation+Systems;AI+Experiments+%26+Model+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=700&color=FF00F7&center=true&vCenter=true&width=750&lines=%3E+AI+SYSTEM+INITIALIZED;%3E+TRAINING+MODELS...;%3E+PROCESSING+DATA...;%3E+INTELLIGENCE+PIPELINE+ONLINE" />
 </p>
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│        ARTIFICIAL INTELLIGENCE / ML          │
+│                                              │
+│          DATA  ───►  MODEL  ───►  AI         │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+## 🤖 Artificial Intelligence
 
 ```text
 Artificial Intelligence
 │
 ├── Machine Learning
-│
 ├── Natural Language Processing
 └── Recommendation Systems
 ```
@@ -203,6 +261,10 @@ Artificial Intelligence
 ---
 
 # `> activity.scan`
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+SCANNING+GITHUB+ACTIVITY...;%3E+LOADING+CONTRIBUTIONS...;%3E+ACTIVITY+STREAM+ONLINE" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=crazy02coder&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" />
