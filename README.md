@@ -262,12 +262,14 @@ Artificial Intelligence
 
 # `> activity.scan`
 
+# `> contribution.scan`
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+SCANNING+GITHUB+ACTIVITY...;%3E+LOADING+CONTRIBUTIONS...;%3E+ACTIVITY+STREAM+ONLINE" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crazy02coder&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crazy02coder&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazy02coder&theme=tokyonight" />
 </p>
 
 ---
