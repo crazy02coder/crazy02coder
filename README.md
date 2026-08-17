@@ -1,23 +1,24 @@
 # crazy02coder
 
-> **Maintainer credibility and contributor clarity.**
+> **Full-Stack · Mobile · DevOps · AI/ML**
 
-`Theme: Neon` · `Style: Detailed` · `Agent: Full-Stack Engineer`
+`Theme: Neon` · `Style: Cyber Terminal` · `Status: Building`
 
 ---
 
-## Header
+## `> whoami`
 
 ```text
 ╭──────────────────────────────────────────────────────────────────────╮
 │                                                                      │
-│   > whoami                                                           │
-│                                                                      │
 │   CRAZY02CODER                                                       │
-│   Full-Stack Engineer                                                │
 │                                                                      │
-│   Building modern web applications, APIs, infrastructure            │
-│   and open-source developer tooling.                                 │
+│   Full-Stack Engineer                                                │
+│   Mobile Developer                                                   │
+│   DevOps                                                             │
+│   AI / Machine Learning                                              │
+│                                                                      │
+│   Building software from UI → API → Infrastructure → Deployment      │
 │                                                                      │
 │   STATUS  ● ONLINE                                                   │
 │                                                                      │
@@ -26,190 +27,394 @@
 
 Hi, I'm **crazy02coder**.
 
-I work across **frontend, backend, infrastructure and open-source software**.
+I build software across **frontend, backend, mobile, desktop, infrastructure and AI/ML**.
+
+I enjoy working across the entire software lifecycle — from designing interfaces and APIs to deploying distributed applications and experimenting with machine learning systems.
 
 ---
 
-## About Me
+# `> stack.scan`
+
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,solidjs,ts,js,html,css&theme=dark" />
+</p>
 
 ```text
-╭─[ profile.scan ]─────────────────────────────────────────────────────╮
-│                                                                      │
-│  NAME        crazy02coder                                            │
-│  ROLE        Full-Stack Engineer                                     │
-│  FOCUS       Open Source / Web / Backend / Infrastructure            │
-│                                                                      │
-│  > Building systems from UI to deployment.                           │
-│  > Interested in scalable software and developer tooling.            │
-│  > Always learning, building and shipping.                           │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+Angular        React          Vue
+Next.js        SolidJS        TypeScript
+JavaScript     HTML           CSS
 ```
 
 ---
 
-## Skills
+## ⚙️ Backend
 
-### `> stack.scan`
-
-| Area | Technologies |
-|---|---|
-| **Frontend** | TypeScript · Angular · Vue · React |
-| **Backend** | FastAPI · Node.js · Python |
-| **API** | REST · WebSocket · SignalR |
-| **DevOps** | Docker · Kubernetes · Jenkins |
-| **GitOps** | ArgoCD · Git |
-| **Infrastructure** | Linux · Redis · MongoDB · SQLite |
-
-### Language Stack
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,spring,fastapi,flask,django,laravel,nestjs,express,nodejs,go&theme=dark" />
+</p>
 
 ```text
-TypeScript      ██████████████████████████████░░░░░░  34%
-
-Python          ███████████████████████░░░░░░░░░░░░  26%
-
-JavaScript      ████████████████░░░░░░░░░░░░░░░░░░  18%
-
-Dockerfile      ███████████░░░░░░░░░░░░░░░░░░░░░░  12%
-
-HTML / CSS      █████████░░░░░░░░░░░░░░░░░░░░░░░░  10%
-```
-
-```text
-[ TypeScript ] [ Angular ] [ Vue ] [ React ]
-
-[ FastAPI ] [ Python ] [ Node.js ]
-
-[ Docker ] [ Kubernetes ] [ Jenkins ] [ ArgoCD ]
-
-[ Git ] [ Linux ] [ Redis ] [ MongoDB ]
+.NET / ASP.NET Core          Spring Boot
+FastAPI                     Flask
+Django                      Laravel
+NestJS                      Express.js
+Node.js                     Go
 ```
 
 ---
 
-## GitHub Stats
+## 📱 Mobile
 
-### `> contribution.scan`
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,swift,flutter,ionic&theme=dark" />
+</p>
 
 ```text
-                         CONTRIBUTION GRID
-
-      JAN       FEB       MAR       APR       MAY       JUN
-
-░ ░ ▒ ░ ░   ░ ▒ ▓ ░ ░   ▒ ▓ █ ▒ ░   ░ ▒ ▓ ▒ ░   ▒ █ ▓ ░ ░   ░ ▒ ▓ ░ ░
-▒ ▓ ░ ░ ▒   ▒ █ ▓ ▒ ░   ▓ █ █ ▓ ▒   ▒ ▓ █ ▓ ░   ▓ █ █ ▒ ░   ▒ ▓ █ ▒ ░
-░ ▒ ▓ ▒ ░   ░ ▓ █ ░ ░   ▒ ▓ █ ▒ ░   ░ ▒ ▓ ▒ ░   ░ ▓ █ ▓ ▒   ░ ▒ ▓ ░ ░
-
-
-      JUL       AUG       SEP       OCT       NOV       DEC
-
-▒ ░ ▓ ▒ ░   ▓ █ ▒ ░ ░   ░ ▒ ▓ ░ ░   ▒ ▓ █ ▒ ░   ░ ▒ ▓ ▒ ░   ▓ █ ▓ ▒ ░
-▓ █ █ ▓ ▒   █ █ ▓ ▒ ░   ▒ ▓ █ ▓ ░   ▓ █ █ ▓ ▒   ▒ █ █ ▓ ░   █ █ █ ▓ ▒
-▒ ▓ █ ▒ ░   ▓ █ █ ▓ ▒   ░ ▒ ▓ ▒ ░   ▒ ▓ █ ▒ ░   ░ ▓ █ ▒ ░   ▓ █ ▓ ▒ ░
-
-
-░  LOW
-▒  ACTIVE
-▓  HIGH
-█  SHIPPING
+Kotlin          Swift
+Flutter         Ionic
 ```
 
 ---
 
-## Projects
+## 🖥️ Desktop
 
-### `> projects.list`
+<p>
+<img src="https://skillicons.dev/icons?i=electron,qt,python,java,dotnet&theme=dark" />
+</p>
 
 ```text
-01 ─ FULL-STACK APPLICATIONS
+Electron
+
+Tkinter
+Qt
+PyQt
+
+Swing
+Windows Forms
+```
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark" />
+</p>
+
+```text
+Microsoft SQL Server
+MySQL
+PostgreSQL
+SQLite
+MongoDB
+Redis
+pgAdmin
+```
+
+---
+
+## 🚀 DevOps / Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux&theme=dark" />
+</p>
+
+```text
+Docker
+Kubernetes
+ArgoCD
+Git
+Linux
+
+CI/CD
+Containerization
+GitOps
+```
+
+```text
+Developer
+    │
+    ▼
+   Git
+    │
+    ▼
+  CI/CD
+    │
+    ▼
+ Docker
+    │
+    ▼
+Container Registry
+    │
+    ▼
+  ArgoCD
+    │
+    ▼
+Kubernetes
+    │
+    ▼
+Production
+```
+
+---
+
+# `> languages.scan`
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,java,cpp,python,ts,js,go,rust,kotlin,swift,dart&theme=dark" />
+</p>
+
+```text
+C#              Java
+C++             Python
+TypeScript      JavaScript
+Go              Rust
+Kotlin          Swift
+Dart
+```
+
+---
+
+# `> ai.scan`
+
+## 🤖 Artificial Intelligence
+
+```text
+Artificial Intelligence
+│
+├── Machine Learning
+│
+├── Deep Learning
+│
+├── Computer Vision
+│
+├── Natural Language Processing
+│
+├── Recommendation Systems
+│
+└── Neural Networks
+```
+
+### Machine Learning
+
+```text
+Data
+ │
+ ▼
+Preprocessing
+ │
+ ▼
+Feature Engineering
+ │
+ ▼
+Model Training
+ │
+ ▼
+Evaluation
+ │
+ ▼
+Prediction
+```
+
+### Areas
+
+```text
+[ Machine Learning ]
+
+[ Deep Learning ]
+
+[ Computer Vision ]
+
+[ NLP ]
+
+[ Recommendation Systems ]
+
+[ Neural Networks ]
+```
+
+---
+
+# `> architecture.scan`
+
+```text
+                     FULL-STACK
+
+                         USER
+                           │
+                           ▼
+                 ┌─────────────────┐
+                 │    FRONTEND     │
+                 │                 │
+                 │ Angular         │
+                 │ React           │
+                 │ Vue             │
+                 │ Next.js         │
+                 │ SolidJS         │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │       API       │
+                 │                 │
+                 │ REST            │
+                 │ WebSocket       │
+                 │ SignalR         │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │     BACKEND     │
+                 │                 │
+                 │ .NET            │
+                 │ Spring Boot     │
+                 │ FastAPI         │
+                 │ Django          │
+                 │ NestJS          │
+                 │ Laravel         │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │      DATA       │
+                 │                 │
+                 │ PostgreSQL      │
+                 │ MSSQL           │
+                 │ MySQL           │
+                 │ MongoDB         │
+                 │ Redis           │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │     DEVOPS      │
+                 │                 │
+                 │ Docker          │
+                 │ Kubernetes      │
+                 │ ArgoCD          │
+                 │ CI/CD           │
+                 └─────────────────┘
+```
+
+---
+
+# `> projects.list`
+
+```text
+01 ─ FULL-STACK DEVELOPMENT
 
      Frontend
      ├── Angular
-     ├── Vue
      ├── React
-     └── TypeScript
+     ├── Vue
+     ├── Next.js
+     └── SolidJS
 
      Backend
+     ├── .NET
+     ├── Spring Boot
      ├── FastAPI
-     ├── Node.js
-     ├── Python
-     └── REST / WebSocket
-```
+     ├── Flask
+     ├── Django
+     ├── Laravel
+     ├── NestJS
+     └── Express.js
 
-```text
-02 ─ DEVOPS / INFRASTRUCTURE
-
-     Developer
-         │
-         ▼
-     Git / Bitbucket
-         │
-         ▼
-     Jenkins
-         │
-         ▼
-     JFrog Artifactory
-         │
-         ▼
-     Git Repository
-         │
-         ▼
-     ArgoCD
-         │
-         ▼
-     Kubernetes
-         │
-         ▼
-     Rancher
-```
-
-```text
-03 ─ DATA / SERVICES
-
-     ├── Redis
-     ├── MongoDB
-     ├── SQLite
-     ├── REST APIs
+     Communication
+     ├── REST
      ├── WebSocket
+     └── SignalR
+```
+
+```text
+02 ─ MOBILE DEVELOPMENT
+
+     Native
+     ├── Kotlin
+     └── Swift
+
+     Cross Platform
+     ├── Flutter
+     └── Ionic
+```
+
+```text
+03 ─ DEVOPS / INFRASTRUCTURE
+
+     ├── Docker
+     ├── Kubernetes
+     ├── ArgoCD
+     ├── Git
+     ├── Linux
+     ├── CI/CD
+     ├── GitOps
      └── Containerized Services
 ```
 
----
+```text
+04 ─ AI / MACHINE LEARNING
 
-## Chess
-
-### `> chess.run`
+     ├── Machine Learning
+     ├── Deep Learning
+     ├── Computer Vision
+     ├── NLP
+     ├── Recommendation Systems
+     └── Neural Networks
+```
 
 ```text
-        A   B   C   D   E   F   G   H
+05 ─ DESKTOP DEVELOPMENT
 
-    ┌───┬───┬───┬───┬───┬───┬───┬───┐
-  8 │ ♜ │ ♞ │ ♝ │ ♛ │ ♚ │ ♝ │ ♞ │ ♜ │ 8
-    ├───┼───┼───┼───┼───┼───┼───┼───┤
-  7 │ ♟ │ ♟ │ ♟ │ ♟ │ ♟ │ ♟ │ ♟ │ ♟ │ 7
-    ├───┼───┼───┼───┼───┼───┼───┼───┤
-  6 │   │   │   │   │   │   │   │   │ 6
-    ├───┼───┼───┼───┼───┼───┼───┼───┤
-  5 │   │   │   │   │ ♟ │   │   │   │ 5
-    ├───┼───┼───┼───┼───┼───┼───┼───┤
-  4 │   │   │   │   │ ♙ │   │   │   │ 4
-    ├───┼───┼───┼───┼───┼───┼───┼───┤
-  3 │   │   │   │   │   │ ♘ │   │   │ 3
-    ├───┼───┼───┼───┼───┼───┼───┼───┤
-  2 │ ♙ │ ♙ │ ♙ │ ♙ │   │ ♙ │ ♙ │ ♙ │ 2
-    ├───┼───┼───┼───┼───┼───┼───┼───┤
-  1 │ ♖ │ ♘ │ ♗ │ ♕ │ ♔ │ ♗ │   │ ♖ │ 1
-    └───┴───┴───┴───┴───┴───┴───┴───┘
-
-        A   B   C   D   E   F   G   H
+     ├── Electron
+     ├── Tkinter
+     ├── Qt
+     ├── PyQt
+     ├── Swing
+     └── Windows Forms
 ```
 
 ---
 
-## Current Status
+# `> contribution.scan`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crazy02coder&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# `> stats.run`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=crazy02coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazy02coder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# `> streak.run`
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=crazy02coder&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# `> system.status`
 
 ```text
-crazy02coder@github:~$ status
+crazy02coder@github:~$ ./status
+
+╭─────────────────────────────────────╮
+│                                     │
+│  FULL STACK          ● ACTIVE       │
+│  MOBILE              ● ACTIVE       │
+│  DEVOPS              ● ACTIVE       │
+│  AI / ML             ● LEARNING     │
+│  OPEN SOURCE         ● ONLINE       │
+│                                     │
+╰─────────────────────────────────────╯
 
 [✓] Building
 [✓] Learning
@@ -221,7 +426,7 @@ crazy02coder@github:~$ _
 
 ---
 
-## Connect
+# `> connect`
 
 **GitHub:** [@crazy02coder](https://github.com/crazy02coder)
 
@@ -244,5 +449,5 @@ crazy02coder@github:~$ _
 ```
 
 <p align="center">
-  <b>CODE · BUILD · SHIP</b>
+  <b>⚡ CODE · BUILD · SHIP ⚡</b>
 </p>
