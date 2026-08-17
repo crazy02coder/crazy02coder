@@ -2,7 +2,6 @@
 
 > **Full-Stack · Mobile · DevOps · AI/ML**
 
-`Theme: Neon` · `Style: Cyber Terminal` · `Status: Building`
 
 ---
 
